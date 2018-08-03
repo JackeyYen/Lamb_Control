@@ -1,3 +1,2 @@
-# smart-home
-    arduino system auto control relays
-    This is a simple smart home function implementation
+# Lamb_Control
+    手术灯色温调空系统
